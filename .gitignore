@@ -1,0 +1,9 @@
+﻿cookies.txt
+*.cookies.txt
+audio/
+transcripts/
+*.webm
+*.mp3
+*.wav
+models/
+
